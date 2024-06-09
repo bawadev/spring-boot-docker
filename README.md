@@ -1,5 +1,6 @@
 # spring-boot-docker
-This is a simple application to teach how to start developments with docker. This is the blog post How to Dockerize Spring Boot Application and run and use it. 
+This is a simple application to teach how to start developments with docker. This is the blog post how to Dockerize Spring Boot Application and run and use it. 
+( https://bawadev.github.io/post/dev-docker/ )
 
 # Build Docker Image 
 $ docker build -t spring-boot-docker.jar .
